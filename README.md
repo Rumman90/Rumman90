@@ -24,6 +24,7 @@ Most of my production work is in private repositories, but I also share a few pu
 - Microservices  
 - Fintech & Digital Assets  
 - Automation (n8n, LLM agents)
+- Mobile Application Development
 
 ### 📫 Contact
 **Email:** rummansiddiqui1990@gmail.com  
