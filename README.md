@@ -20,11 +20,11 @@ Most of my production work is in private repositories, but I also share a few pu
 - LLM-driven voice agents  
 
 ### 🤝 Open to Collaborations In:
-- Backend systems  
-- Microservices  
-- Fintech & Digital Assets  
-- Automation (n8n, LLM agents)
-- Mobile Application Development
+- Backend Systems & API Engineering  
+- Microservices & Distributed Architectures  
+- Fintech & Digital Assets Platforms  
+- Automation & AI Workflows
+- Mobile Engineering
 
 ### 📫 Contact
 **Email:** rummansiddiqui1990@gmail.com  
