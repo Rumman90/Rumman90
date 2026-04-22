@@ -4,6 +4,7 @@ I’m a **Technical Lead** with 9+ years of experience in backend engineering, d
 
 ### 🔥 What I Work On
 - Backend: **Node.js, NestJS, .NET Core**
+- FrontEnd: **React**
 - Mobile: **Android (Kotlin/Java)**, **React Native**
 - Cloud & DevOps: **AWS, Docker, CI/CD, GitHub Actions**
 - Distributed Systems & API Architecture  
