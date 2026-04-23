@@ -28,5 +28,5 @@ Most of my production work is in private repositories, but I also share a few pu
 - Mobile Engineering
 
 ### 📫 Contact
-**Email:** rummansiddiqui1990@gmail.com  
-**LinkedIn:** linkedin.com/in/rumman-hussain-siddiqui-42519023  
+- **Email:** rummansiddiqui1990@gmail.com  
+- **LinkedIn:** [Rumman Hussain Siddiqui](https://linkedin.com/in/rumman-hussain-siddiqui-42519023)
