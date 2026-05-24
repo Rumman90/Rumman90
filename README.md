@@ -11,12 +11,12 @@ My engineering focus is centered around designing reliable, maintainable, and pr
 - Distributed Systems & Microservices
 - Backend API Architecture
 - Event-Driven Systems
-- Cloud-Native Applications
+- Scalable Financial Platforms
 - Workflow Automation & AI Integrations
 - Performance Optimization
-- Scalable Financial Platforms
 - Resilient Messaging Architectures
 - Production Observability & Monitoring
+- Cloud-Native Backend Applications
 
 ---
 
@@ -79,17 +79,15 @@ I enjoy working on engineering problems related to:
 
 # 📚 Public Engineering Work
 
-Most production systems I’ve worked on are enterprise/private platforms, while my public repositories focus on:
+Most production systems I’ve worked on are enterprise and private platforms, while my public repositories currently focus on:
 
 - Distributed systems experiments
 - RabbitMQ & asynchronous processing
-- System design concepts
 - Backend architecture patterns
-- Performance engineering
-- Cloud-native application design
-- Workflow automation
-- AI voice systems
-- Engineering prototypes & technical explorations
+- System design concepts
+- Engineering prototypes
+- Workflow automation experiments
+- AI voice agent explorations
 
 I also share technical insights and architecture-related content through engineering articles, public repositories, and technical discussions.
 
@@ -132,7 +130,7 @@ I also share technical insights and architecture-related content through enginee
 
 > Design first. Build second.
 
-I strongly believe scalable software systems are built through proper architecture, clear system boundaries, observability, resilience planning, and maintainability — not just writing code.
+I believe scalable software systems are built through proper architecture, clear system boundaries, observability, resilience planning, and maintainability — not just writing code.
 
 Good engineering is not only about delivering features.  
 It is about building systems that teams can reliably scale, monitor, evolve, and operate over time.
