@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rumman Hussain Siddiqui
 
-I’m a Technical Lead and Backend Engineer with 9+ years of experience building scalable backend systems, distributed architectures, and cloud-native applications across fintech, logistics, and enterprise platforms.
+I’m a Technical Lead and Backend Engineer with 11+ years of experience building scalable backend systems, distributed architectures, and cloud-native applications across fintech, logistics, and enterprise platforms.
 
 My engineering focus is centered around designing reliable, maintainable, and production-grade systems with strong emphasis on scalability, observability, asynchronous processing, resilience, and long-term system evolution.
 
