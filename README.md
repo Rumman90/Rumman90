@@ -123,6 +123,8 @@ I also share technical insights and architecture-related content through enginee
 - Email: rummansiddiqui1990@gmail.com
 - LinkedIn: https://linkedin.com/in/rumman-hussain-siddiqui-42519023
 - Portfolio: https://rumman-portfolio-snowy-gamma-35.vercel.app/
+- Medium: https://medium.com/@rummansiddiqui1990
+- Hashnode: https://hashnode.com/@rumman90
 
 ---
 
